@@ -1,7 +1,7 @@
 <h1>Minha Biblioteca de filmes utilizando a API do IMDB</h1>
 
 <h2>Observações</h2>
-<p>Gostei muito de desenvolver e me ajudou a conhecer mais sobre API, integração e React, utilizando um vídeo como base e fazendo algumas modificações </p>
+<p>Gostei muito de desenvolver e me ajudou a conhecer mais sobre API, integração e React, utilizando um vídeo como base e fazendo algumas modificações. </p>
 
 ## Linguagens de Marcação usadas
 
