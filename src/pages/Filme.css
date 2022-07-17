@@ -1,0 +1,56 @@
+.filme-page {
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+.filme-page svg {
+    font-size: 1.5rem;
+    color: rgb(119, 182, 241);
+}
+
+.filme-page .filme-card {
+    text-align: center;
+}
+
+.filme-page .filme-card img, .filme-page .filme-card h2, .filme-page .filme-card p {
+    margin-bottom: 1rem;
+}
+
+.filme-card .filme-page h2 {
+    font-size: 2rem;
+}
+
+.filme-card .filme-page p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.info {
+    margin-bottom: 1.5rem;
+}
+
+.info h3 {
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center; 
+    gap: 0.7rem;
+}
+
+.description {
+    padding-bottom: 6rem;
+}
+
+.description p {
+    line-height: 1.5rem;
+}
